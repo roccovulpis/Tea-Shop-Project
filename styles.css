@@ -5,6 +5,7 @@ html {
     font-size: 22px;
     color: seashell;
     background-color: rgba(0, 0, 0, 0.9);
+    scroll-behavior: smooth;
 }
 body {
     display: flex;
