@@ -59,7 +59,7 @@ a:hover {
     align-items: center;
     height: 700px;
     max-width: 1200px;
-    background-image: url(/photos/img-mission-background.jpg);
+    background-image: url(./photos/img-mission-background.jpg);
     background-size: cover;
     background-position: center;
     margin: 0 auto; 
@@ -96,7 +96,7 @@ a:hover {
     justify-content: center;
     align-items: center;
     width: 85%;
-    background-image: url(/photos/img-locations-background.jpg);
+    background-image: url(./photos/img-locations-background.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
