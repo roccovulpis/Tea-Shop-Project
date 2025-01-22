@@ -124,9 +124,12 @@ a:hover {
     align-items: center;
     width: 85%;
     justify-content: center;
+    margin-top: 2rem;
+    line-height: .2rem;
 }
 footer {
     display: flex;
     text-align: left;
     width: 95%;
+    gap: 10px;
 }
